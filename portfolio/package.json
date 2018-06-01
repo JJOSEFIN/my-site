@@ -1,7 +1,7 @@
 {
-  "name": "my-site",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Portfolio",
+  "description": "My portfolio",
   "author": "Josefin Fröberg",
   "private": true,
   "scripts": {
